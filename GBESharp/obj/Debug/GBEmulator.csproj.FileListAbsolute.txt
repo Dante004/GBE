@@ -1,0 +1,9 @@
+C:\Users\Dante\Desktop\GBEmulator\GBESharp\bin\Debug\GBESharp.exe.config
+C:\Users\Dante\Desktop\GBEmulator\GBESharp\bin\Debug\GBESharp.exe
+C:\Users\Dante\Desktop\GBEmulator\GBESharp\bin\Debug\GBESharp.pdb
+C:\Users\Dante\Desktop\GBEmulator\GBESharp\obj\Debug\GBEmulator.csprojResolveAssemblyReference.cache
+C:\Users\Dante\Desktop\GBEmulator\GBESharp\obj\Debug\GBESharp.Form1.resources
+C:\Users\Dante\Desktop\GBEmulator\GBESharp\obj\Debug\GBESharp.Properties.Resources.resources
+C:\Users\Dante\Desktop\GBEmulator\GBESharp\obj\Debug\GBEmulator.csproj.GenerateResource.Cache
+C:\Users\Dante\Desktop\GBEmulator\GBESharp\obj\Debug\GBESharp.exe
+C:\Users\Dante\Desktop\GBEmulator\GBESharp\obj\Debug\GBESharp.pdb
